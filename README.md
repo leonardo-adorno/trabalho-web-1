@@ -1,3 +1,3 @@
 # Trabalho de Desenvolvimento Web 1
 
-Trabalho de faculdade desenvolvido utilizando HTML e CSS.
+Trabalho de faculdade desenvolvido com HTML e CSS.
