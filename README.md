@@ -1,1 +1,3 @@
-# trabalho-web-1
+# Trabalho de Desenvolvimento Web 1
+
+Trabalho desenvolvido utilizando HTML e CSS.
